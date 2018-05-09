@@ -33,7 +33,7 @@
                                 <li class="nav-item" role="presentation"><a class="nav-link" href="index.html">Home</a></li>
                         <li class="nav-item" role="presentation"><a class="nav-link" href="about.html">Our Service</a></li>
                         <li class="nav-item" role="presentation"><a class="nav-link" href="information.html">Information</a></li>
-                        <li class="nav-item" role="presentation"><a class="nav-link" href="reviews.html">Reviews</a></li>
+                       
                         <li class="nav-item" role="presentation"><a class="nav-link active" href="contact.php">Contact us</a></li>
                     </ul>
                 </div>
